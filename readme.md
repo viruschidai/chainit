@@ -83,7 +83,7 @@ Features:
 
 ## tests
 
-See [tests](test/).
+See [tests](https://github.com/vvo/chainit/tree/master/test/).
 
 ```shell
 npm test
@@ -91,7 +91,7 @@ npm test
 
 ## examples
 
-See [examples](examples/).
+See [examples](https://github.com/vvo/chainit/tree/master/examples/).
 
 ## mixing async/sync apis
 
